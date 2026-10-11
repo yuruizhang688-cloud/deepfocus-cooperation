@@ -1,0 +1,12 @@
+{
+  "deposit": 100000,
+  "feeFirst": 14980,
+  "feeSecond": 12980,
+  "refundDays": 7,
+  "first": 20,
+  "second": 17,
+  "override": 5,
+  "feeReward": 30,
+  "periodFirst": "1年",
+  "periodSecond": "1年"
+}
